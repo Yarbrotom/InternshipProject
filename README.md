@@ -5,7 +5,7 @@ This repo contains information on the code I wrote for my internship with Prospe
 * The first user story I worked on indicated that a non admin user on the website was able to access a page that they shouldn't if they were to manually navigate to it through the url.
 The website was already setup to hide the navigation link to that page for non Admin users so my task was simply to prevent someone from navigating to a "Create Productions" page manually.
  
-  * The [**Restrict Access to Productions**](https://github.com/Yarbrotom/InternshipProject/blob/master/Restrict%20Access%20to%20Productions.PNG) image shows the code that I added to the Controller to keep a non admin from unauthorized access to the "Create Productions Page".  
+  * The [**Restrict Access to Productions**](https://github.com/Yarbrotom/InternshipProject/blob/master/Restrict%20Access%20to%20Productions.PNG) image shows the code that I added to the Controller to keep a non admin from unauthorized access to the page for creating productions.  
 &nbsp;
 &nbsp;
 &nbsp;
